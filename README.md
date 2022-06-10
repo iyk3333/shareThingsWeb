@@ -72,3 +72,4 @@
 ▶  notice: 게시판 데이터
 ```
 <br/>
+✅ 자세한 설명: https://fluorescent-cornet-5b7.notion.site/Sharethings-b02971a09f784521a947426f45be87dd
