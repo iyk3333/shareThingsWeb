@@ -33,9 +33,12 @@
 📝 웹 응용 및 설계
 
 💙 기능
-~~~
-![설계.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4e2ba35-c3c7-4e36-b065-ddae17398050/설계.png)
 
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/59546979/173134248-7e15e64f-ca56-40df-8350-857ee1e764e6.png"/>
+</p>
+                                                                                                                   
+```
 ▶  DBUtil: 데이터 관리, 데이터 저장, 삭제, 변경 조회 등
 ▶  DoBorrowUpload: 대여 업로드 페이지
 ▶  DoDeal: 거래 완료 표시
@@ -50,18 +53,22 @@
 ▶  FindID: 아이디 찾기
 ▶  FindPW: 비밀번호 찾기
 ▶  SessionTerminate: 일정 시간 지날 시 세션 종료
-~~~
+```
 <br/>
 
 
 💙 DB 구조
-~~~
-![db구조.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd538e06-6905-44e9-a82a-b1184a28feb6/db구조.png)
 
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/59546979/173134243-bbe03c23-7eac-4c94-b5a3-e4da099a66cb.png"/>
+</p>
+
+```
 ▶  product: 상품 데이터
 ▶  rental: 대여 상품 데이터
 ▶  exchange: 교환 상품 데이터
 ▶  customer: 유저 데이터
 ▶  recommendationproduct: 유저가 추천받고 싶은 상품 관련 데이터
 ▶  notice: 게시판 데이터
-~~~
+```
+<br/>
